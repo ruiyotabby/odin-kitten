@@ -1,5 +1,5 @@
 # odin-kitten
-This is a sample app which produce data from flickr API
+This is a fast and straightforward project which produce data from flickr API
 ## Getting started
 To get started with the app, clone the repo and then install the needed gems:
 ```
