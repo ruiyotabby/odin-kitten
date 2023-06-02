@@ -1,5 +1,5 @@
 # odin-kitten
-This is a fast and straightforward project which produce data from flickr API
+This is a fast and straightforward website which is both a normal HTML-producing back end AND an API that can be used to pull data from it.
 ## Getting started
 To get started with the app, clone the repo and then install the needed gems:
 ```
